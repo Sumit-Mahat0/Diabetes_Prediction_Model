@@ -1,1 +1,1 @@
-# Sumit-Mahat0-Diabetes_Prediction_Model
+# Diabetes_Prediction_Model
