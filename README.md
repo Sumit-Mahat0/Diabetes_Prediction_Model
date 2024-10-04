@@ -8,7 +8,7 @@ Creating this predictive model not only sharpened my skills in machine learning 
 
 Key highlights:-
 
-✅️Developed a predictive model using Python. and machine learning libraries (sklearn) to predict the likelihood of diabetes in individuals. 
+✅️Developed a predictive model using Python. and machine learning libraries (sklearn) to predict the likelihood of diabetes in individuals.    
 ✅️Utilized data preprocessing techniques (pandas) to clean and prepare the dataset for analysis.                                
 ✅️Conducted feature selection and engineering to identify the most influential factors in diabetes prediction.    
 ✅️Implemented and evaluated various machine learning algorithms (e.g., logistic regression, decision trees) to achieve accurate predictions.  
